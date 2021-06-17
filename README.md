@@ -4,6 +4,10 @@ Contrast values calculated using https://color.a11y.com/ against `#36393F`, Disc
 
 Lumineence and contrast (light) numbers provided for your interest but are otherwise not considered when accepting a colour. Luminence is calculated using `sqrt(0.241*R*R + 0.691*G*G + 0.068*B*B);` where `R`, `G`, `B` are normalized components (from 0 to 1 inclusive).;
 
+&nbsp;
+
+Current colours:
+
 |Hex code |Luminence|Contrast (dark)|Contrast (light)|
 |---------|---------|---------------|----------------|
 | #FFFFFF | 1.0000  | 11.57         | 1.00           |
@@ -29,6 +33,8 @@ Lumineence and contrast (light) numbers provided for your interest but are other
 | #FF00FF | 0.5559  | 3.69          | 3.13           |
 | #B063F9 | 0.5327  | 3.30          | 3.50           |
 | #FF007F | 0.5078  | 3.06          | 3.77           |
+|---------|---------|---------------|----------------|
+|Invalid colours follow|         |                               |
 |---------|---------|---------------|----------------|
 | #FF0062 | 0.5010  | 2.99          | 3.86           |
 | #5974FF | 0.4903  | 2.95          | 3.91           |
