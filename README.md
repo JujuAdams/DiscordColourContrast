@@ -8,8 +8,8 @@ Lumineence and contrast (light) numbers provided for your interest but are other
 
 Current colours:
 
-|Hex code                                                                   |Luminence|Contrast (dark)|Contrast (light)|
-|---------------------------------------------------------------------------|---------|---------------|----------------|
+|Hex code              |Luminence|Contrast (dark)|Contrast (light)|
+|----------------------|---------|---------------|----------------|
 | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF` | 1.0000  | 11.57         | 1.00           |
 | ![#00F9BE](https://via.placeholder.com/15/00F9BE/000000?text=+) `#00F9BE` | 0.8346  | 8.43          | 1.37           |
 | ![#56F1CE](https://via.placeholder.com/15/56F1CE/000000?text=+) `#56F1CE` | 0.8301  | 8.19          | 1.41           |
@@ -39,9 +39,9 @@ Current colours:
 | ![#FF007F](https://via.placeholder.com/15/FF007F/000000?text=+) `#FF007F` | 0.5078  | 3.06          | 3.77           |
 | ![#9B6BD6](https://via.placeholder.com/15/9B6BD6/000000?text=+) `#9B6BD6` | 0.5085  | 3.01          | 3.84           |
 | ![#4882D9](https://via.placeholder.com/15/4882D9/000000?text=+) `#4882D9` | 0.4980  | 3.01          | 3.83           |
-|---------------------------------------------------------------------------|---------|---------------|----------------|
-|Invalid colours follow                                                     |         |                               |
-|---------------------------------------------------------------------------|---------|---------------|----------------|
+|----------------------|---------|---------------|----------------|
+|Invalid colours follow|         |                               |
+|----------------------|---------|---------------|----------------|
 | ![#FF0062](https://via.placeholder.com/15/FF0062/000000?text=+) `#FF0062` | 0.5010  | 2.99          | 3.86           |
 | ![#5974FF](https://via.placeholder.com/15/5974FF/000000?text=+) `#5974FF` | 0.4903  | 2.95          | 3.91           |
 | ![#FF0046](https://via.placeholder.com/15/FF0046/000000?text=+) `#FF0046` | 0.6862  | 2.94          | 3.93           |
