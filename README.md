@@ -33,8 +33,8 @@ Current colours:
 | ![#00AAAA](https://via.placeholder.com/15/00AAAA/000000?text=+) `#00AAAA` | 0.5808  | 4.04          | 2.86           |
 | ![#FF00FF](https://via.placeholder.com/15/FF00FF/000000?text=+) `#FF00FF` | 0.5559  | 3.69          | 3.13           |
 | ![#00A0A0](https://via.placeholder.com/15/00A0A0/000000?text=+) `#00A0A0` | 0.5466  | 3.60          | 3.21           |
-| ![#9673FF](https://via.placeholder.com/15/9673FF/000000?text=+) `#9673FF` | 0.5403  | 3.41          | 3.39           |
 | ![#0090FF](https://via.placeholder.com/15/0090FF/000000?text=+) `#0090FF` | 0.5370  | 3.54          | 3.26           |
+| ![#9673FF](https://via.placeholder.com/15/9673FF/000000?text=+) `#9673FF` | 0.5403  | 3.41          | 3.39           |
 | ![#5D87EA](https://via.placeholder.com/15/5D87EA/000000?text=+) `#5D87EA` | 0.5320  | 3.37          | 3.43           |
 | ![#B063F9](https://via.placeholder.com/15/B063F9/000000?text=+) `#B063F9` | 0.5327  | 3.30          | 3.50           |
 | ![#FF007F](https://via.placeholder.com/15/FF007F/000000?text=+) `#FF007F` | 0.5078  | 3.06          | 3.77           |
