@@ -8,7 +8,7 @@ There's a convenient web tool that we can use to check colour contrast values: h
 
 &nbsp;
 
-Current colours:
+Example colours:
 
 |Hex code                                                                   |Contrast (dark)|Contrast (light)|
 |---------------------------------------------------------------------------|---------------|----------------|
