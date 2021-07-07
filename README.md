@@ -6,7 +6,7 @@ There's a convenient web tool that we can use to check colour contrast values: h
 
 &nbsp;
 
-Example colours:
+### Colours that are ok against the dark theme background but not the light theme:
 
 |Hex code                                                                   |Contrast (dark)|Contrast (light)|
 |---------------------------------------------------------------------------|---------------|----------------|
@@ -32,6 +32,13 @@ Example colours:
 | ![#C382C3](https://via.placeholder.com/15/C382C3/000000?text=+) `#C382C3` | **4.02**      | *~~2.87~~*     |
 | ![#00AF8F](https://via.placeholder.com/15/00AF8F/000000?text=+) `#00AF8F` | **4.15**      | *~~2.78~~*     |
 | ![#00AAAA](https://via.placeholder.com/15/00AAAA/000000?text=+) `#00AAAA` | **4.04**      | *~~2.86~~*     |
+
+&nbsp;
+
+### Colours that are ok against the dark theme background but not the light theme:
+
+|Hex code                                                                   |Contrast (dark)|Contrast (light)|
+|---------------------------------------------------------------------------|---------------|----------------|
 | ![#FF00FF](https://via.placeholder.com/15/FF00FF/000000?text=+) `#FF00FF` | **3.69**      | **3.13**       |
 | ![#00A0A0](https://via.placeholder.com/15/00A0A0/000000?text=+) `#00A0A0` | **3.60**      | **3.21**       |
 | ![#0090FF](https://via.placeholder.com/15/0090FF/000000?text=+) `#0090FF` | **3.54**      | **3.26**       |
@@ -42,6 +49,13 @@ Example colours:
 | ![#9B6BD6](https://via.placeholder.com/15/9B6BD6/000000?text=+) `#9B6BD6` | **3.01**      | **3.84**       |
 | ![#4882D9](https://via.placeholder.com/15/4882D9/000000?text=+) `#4882D9` | **3.01**      | **3.83**       |
 | ![#FF0069](https://via.placeholder.com/15/FF0069/000000?text=+) `#FF0069` | **3.00**      | **3.84**       |
+
+&nbsp;
+
+### Colours that are ok against the light theme background but not the dark theme:
+
+|Hex code                                                                   |Contrast (dark)|Contrast (light)|
+|---------------------------------------------------------------------------|---------------|----------------|
 | ![#FF0062](https://via.placeholder.com/15/FF0062/000000?text=+) `#FF0062` | *~~2.99~~*    | **3.86**       |
 | ![#5974FF](https://via.placeholder.com/15/5974FF/000000?text=+) `#5974FF` | *~~2.95~~*    | **3.91**       |
 | ![#FF0046](https://via.placeholder.com/15/FF0046/000000?text=+) `#FF0046` | *~~2.94~~*    | **3.93**       |
