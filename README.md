@@ -1,8 +1,10 @@
 # Discord Colour Contrast
 
-Contrast values calculated using https://color.a11y.com/ against the Discord dark theme background colour ![#36393F](https://via.placeholder.com/15/36393F/000000?text=+) `#36393F`. Colours must have a contrast ratio of greater than or equal to 3:1 to be accepted.
+To make sure our Discord server is accessible for partially-sighted people, we have to take care that we choose username colours that are legible to as many people as possible. The easiest way to tell if a colour can been seen is to check how well its colour contrasts against the background colour.
 
-Light contrast numbers are provided for your interest but are otherwise not considered when accepting a colour.
+There's a convenient web tool that we can use to check colour contrast values: https://color.a11y.com/. We check our proposed username colours against the Discord dark theme background colour ![#36393F](https://via.placeholder.com/15/36393F/000000?text=+) `#36393F`. Colours must have a contrast ratio of greater than or equal to 3:1 to be legible and to be accepted.
+
+*Light contrast numbers are provided for your interest but are otherwise not considered when accepting a colour.*
 
 &nbsp;
 
