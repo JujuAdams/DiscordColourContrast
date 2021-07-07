@@ -1,6 +1,6 @@
 # Discord Colour Contrast
 
-Contrast values calculated using https://color.a11y.com/ against ![#36393F](https://via.placeholder.com/15/36393F/000000?text=+) `#36393F`, Discord dark theme background colour. Colours must have a contrast ratio of greater than 3.00:1 to be accepted.
+Contrast values calculated using https://color.a11y.com/ against ![#36393F](https://via.placeholder.com/15/36393F/000000?text=+) `#36393F`, the Discord dark theme background colour. Colours must have a contrast ratio of greater than or equal to 3:1 to be accepted.
 
 Light contrast numbers are provided for your interest but are otherwise not considered when accepting a colour.
 
