@@ -1,6 +1,6 @@
 # Discord Colour Contrast
 
-To make sure a Discord server is accessible for visually impairedpeople, we have to take care that we choose username colours that are legible to as many people as possible. The easiest way to tell if a colour can been seen is to check how well its colour contrasts against the background colour. This doesn't take into account text size or style or background texture, but as a basic legibility test it does the job.
+To make sure a Discord server is accessible for visually impaired people, we have to take care that we choose username colours that are legible to as many people as possible. The easiest way to tell if a colour can been seen is to check how well its colour contrasts against the background colour. This doesn't take into account text size or style or background texture, but as a basic legibility test it does the job.
 
 There's a convenient web tool that we can use to check colour contrast values: https://color.a11y.com/. We can check our proposed username colours against the Discord dark theme background colour ![#36393F](https://via.placeholder.com/15/36393F/000000?text=+) `#36393F` or the light theme background colour ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`. Colours must have a contrast ratio of greater than or equal to 3:1 to be legible.
 
