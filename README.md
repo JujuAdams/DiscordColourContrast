@@ -35,7 +35,7 @@ There's a convenient web tool that we can use to check colour contrast values: h
 
 &nbsp;
 
-### Colours that are ok against the dark theme background but not the light theme:
+### Colours that are ok against both dark and light themes:
 
 |Hex code                                                                   |Contrast (dark)|Contrast (light)|
 |---------------------------------------------------------------------------|---------------|----------------|
