@@ -20,6 +20,7 @@ Current colours:
 | ![#85D45D](https://via.placeholder.com/15/85D45D/000000?text=+) `#85D45D` | 0.7431  | 6.38          | 1.81           |
 | ![#E0BA23](https://via.placeholder.com/15/E0BA23/000000?text=+) `#E0BA23` | 0.7449  | 6.18          | 1.87           |
 | ![#FFA859](https://via.placeholder.com/15/FFA859/000000?text=+) `#FFA859` | 0.7411  | 6.06          | 1.90           |
+| ![#2FD25E](https://via.placeholder.com/15/2FD25E/000000?text=+) `#2FD25E` | 0.6962  | 5.78          | 1.99           |
 | ![#81C346](https://via.placeholder.com/15/81C346/000000?text=+) `#81C346` | 0.6862  | 5.41          | 2.13           |
 | ![#E79C1F](https://via.placeholder.com/15/E79C1F/000000?text=+) `#E79C1F` | 0.6763  | 5.05          | 2.28           |
 | ![#00BBFF](https://via.placeholder.com/15/00BBFF/000000?text=+) `#00BBFF` | 0.6630  | 4.86          | 2.19           |
@@ -40,6 +41,7 @@ Current colours:
 | ![#FF007F](https://via.placeholder.com/15/FF007F/000000?text=+) `#FF007F` | 0.5078  | 3.06          | 3.77           |
 | ![#9B6BD6](https://via.placeholder.com/15/9B6BD6/000000?text=+) `#9B6BD6` | 0.5085  | 3.01          | 3.84           |
 | ![#4882D9](https://via.placeholder.com/15/4882D9/000000?text=+) `#4882D9` | 0.4980  | 3.01          | 3.83           |
+| ![#FF0069](https://via.placeholder.com/15/FF0069/000000?text=+) `#FF0069` | 0.5025  | 3.00          | 3.84           |
 |----------------------|---------|---------------|----------------|
 |Invalid colours follow|         |                               |
 |----------------------|---------|---------------|----------------|
