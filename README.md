@@ -1,8 +1,8 @@
 # Discord Colour Contrast
 
-To make sure our Discord server is accessible for partially-sighted people, we have to take care that we choose username colours that are legible to as many people as possible. The simplest way to tell if a colour can been seen is to check how well its colour contrasts against the background colour. This doesn't take into account text size or style or background texture, but as a basic legibility test it does the job.
+To make sure our Discord server is accessible for partially-sighted people, we have to take care that we choose username colours that are legible to as many people as possible. The easiest way to tell if a colour can been seen is to check how well its colour contrasts against the background colour.
 
-There's a convenient web tool that we can use to check colour contrast values: https://color.a11y.com/. We can check our proposed username colours against the Discord dark theme background colour ![#36393F](https://via.placeholder.com/15/36393F/000000?text=+) `#36393F` or the light theme background colour ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`. Colours must have a contrast ratio of greater than or equal to 3:1 to be legible and to be accepted.
+There's a convenient web tool that we can use to check colour contrast values: https://color.a11y.com/. We can check our proposed username colours against the Discord dark theme background colour ![#36393F](https://via.placeholder.com/15/36393F/000000?text=+) `#36393F` or the light theme background colour ![#FFFFFF](https://via.placeholder.com/15/36393F/000000?text=+) `#36393F`. Colours must have a contrast ratio of greater than or equal to 3:1 to be legible and to be accepted.
 
 &nbsp;
 
@@ -21,6 +21,7 @@ There's a convenient web tool that we can use to check colour contrast values: h
 | ![#E0BA23](https://via.placeholder.com/15/E0BA23/000000?text=+) `#E0BA23` | 6.18          | 1.87           |
 | ![#FFA859](https://via.placeholder.com/15/FFA859/000000?text=+) `#FFA859` | 6.06          | 1.90           |
 | ![#2FD25E](https://via.placeholder.com/15/2FD25E/000000?text=+) `#2FD25E` | 5.78          | 1.99           |
+| ![#D8A1EC](https://via.placeholder.com/15/D8A1EC/000000?text=+) `#D8A1EC` | 5.63          | 1.99           |
 | ![#81C346](https://via.placeholder.com/15/81C346/000000?text=+) `#81C346` | 5.41          | 2.13           |
 | ![#E79C1F](https://via.placeholder.com/15/E79C1F/000000?text=+) `#E79C1F` | 5.05          | 2.28           |
 | ![#00BBFF](https://via.placeholder.com/15/00BBFF/000000?text=+) `#00BBFF` | 4.86          | 2.19           |
