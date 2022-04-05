@@ -26,6 +26,7 @@ There's a convenient web tool that we can use to check colour contrast values: h
 | ![#E79C1F](https://via.placeholder.com/15/E79C1F/000000?text=+) `#E79C1F` | 5.05          | 2.28           |
 | ![#00BBFF](https://via.placeholder.com/15/00BBFF/000000?text=+) `#00BBFF` | 4.86          | 2.19           |
 | ![#F28F24](https://via.placeholder.com/15/F28F24/000000?text=+) `#F28F24` | 4.81          | 2.40           |
+| ![#FF8000](https://via.placeholder.com/15/FF8000/000000?text=+) `#FF8000` | 4.59          | 2.51           |
 | ![#FF7F00](https://via.placeholder.com/15/FF7F00/000000?text=+) `#FF7F00` | 4.56          | 2.53           |
 | ![#00B3FF](https://via.placeholder.com/15/00B3FF/000000?text=+) `#00B3FF` | 4.90          | 2.36           |
 | ![#CC9933](https://via.placeholder.com/15/CC9933/000000?text=+) `#CC9933` | 4.50          | 2.56           |
